@@ -25,7 +25,6 @@ def computePay(iHours, fRate):
     return grossPay
 
     
-
 # Prompt user for the number of hours worked. 
 hours = input("Enter number of hours: ")
 
