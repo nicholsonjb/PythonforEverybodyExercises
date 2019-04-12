@@ -1,6 +1,5 @@
 # Written by James Nicholson
 # Last Updated March 24, 2019
-
 # Given (1) number of hours, and (2) rate of pay
 # This program computes gross pay according to the formula: number of hours * rate of pay
 #For hours worked beyond 40. pay = 1.5 * number of hours * rate of pay
