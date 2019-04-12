@@ -55,6 +55,8 @@ print("\n*****Results*****")
 print("File name:" ,fname)
 print("Average spam confidence:", answer)
 
+#End Script
+
 
     
 
